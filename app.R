@@ -20,7 +20,7 @@ foodprice$Date <- my(paste(foodprice$Month,"-", foodprice$Year))
 ui <- fluidPage(
     
     # Application title
-    titlePanel(strong("🍅📈New Zealand Food Price Dashboard")),
+    titlePanel(strong("🍅📈New Zealand Food Price Dashboard 2020")),
     
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
